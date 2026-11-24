@@ -1,0 +1,5 @@
+accountNumber,name,pin,balance,blocked
+1001,Rahul,1234,10000,false
+1002,Amit,2345,15000,false
+1003,Priya,3456,20000,false
+1004,Neha,4567,5000,false
